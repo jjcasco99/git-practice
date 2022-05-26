@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Ésta es la página 2
+=======
+Esta es la pagina 2
+Soy una nueva linea
+>>>>>>> origin/feature/5--add-new-lines
